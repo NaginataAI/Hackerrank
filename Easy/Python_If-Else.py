@@ -1,5 +1,10 @@
-""" 
-@author: nagi
+""" Task:
+Given an integer, n, perform the following conditional actions:
+
+1. If n is odd, print Weird
+2. If n is even and in the inclusive range of  to , print Not Weird
+3. If n is even and in the inclusive range of  to , print Weird
+4. If n is even and greater than , print Not Weird
 """
 
 N = int(input())
